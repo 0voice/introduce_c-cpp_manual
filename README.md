@@ -61,19 +61,19 @@
 
 * [C++ 学习笔记](https://github.com/0voice/cpp_new_features/blob/main/C%2B%2B%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
-* [C++从入门到精通](https://github.com/0voice/learning_mind_map/blob/main/C%2B%2B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.pdf)
+* [C++从入门到精通](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/C%2B%2B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.pdf)
 
-* [C++面向对象](https://github.com/0voice/learning_mind_map/blob/main/C%2B%2B%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.pdf)
+* [C++面向对象](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/C%2B%2B%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.pdf)
 
-* [数据结构和算法](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95.pdf)
+* [数据结构和算法](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95.pdf)
 
-* [数据结构与算法内容梳理](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%86%85%E5%AE%B9%E6%A2%B3%E7%90%86.pdf)
+* [数据结构与算法内容梳理](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%86%85%E5%AE%B9%E6%A2%B3%E7%90%86.pdf)
 
-* [数据结构概述](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%A6%82%E8%BF%B0.pdf)
+* [数据结构概述](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%A6%82%E8%BF%B0.pdf)
 
-* [线性表](https://github.com/0voice/learning_mind_map/blob/main/%E7%BA%BF%E6%80%A7%E8%A1%A8.pdf)
+* [线性表](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/%E7%BA%BF%E6%80%A7%E8%A1%A8.pdf)
 
-* [面向对象编程](https://github.com/0voice/learning_mind_map/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B.pdf)
+* [面向对象编程](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B.pdf)
 
 
 ### 📀 视频
