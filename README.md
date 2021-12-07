@@ -148,3 +148,16 @@
 
 
 ### 🏗 经典项目
+
+* [C++实现双人对战五子棋项目](https://github.com/zz2summer/GoBangByCpp)
+* [自动走迷宫](https://github.com/Superone77/Cpp-basic-learning/tree/master/imooc_code/mazecode)
+* [俄罗斯方块](https://github.com/newhappy3/C-LanguageProjectCombat/tree/master/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97)
+* [学生管理系统](https://github.com/newhappy3/C-LanguageProjectCombat/tree/master/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
+* [用cocos2dx做的微信<<飞机大战>>游戏](https://github.com/Ayloss/AirPlaneGame)
+* [坦克大战](https://github.com/WuYufeng233/Tank3000)
+* [球球大作战](https://github.com/hw-sudo/Big_fight)
+* [智能人机五子棋对战](https://github.com/happysnaker/Gobang)
+* [三国杀](https://github.com/snkkka163/sanguosha)
+
+
+
