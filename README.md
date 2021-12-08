@@ -28,9 +28,6 @@
 
 - 基于Ceph、zfs等开源文件系统做二次定制开发的云存储公司，或者公司内的存储服务部门，通常属于基础架构部。
 
-
-## 🤦‍♂ C/C++ 学起来难吗？
-## 🏃 C/C++ 怎么学起来高效？
 ## 🗂 经典资料推荐
 ### 📚 书籍推荐
 
@@ -74,6 +71,22 @@
 * [线性表](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/%E7%BA%BF%E6%80%A7%E8%A1%A8.pdf)
 
 * [面向对象编程](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B.pdf)
+
+
+### 🏗 项目实战
+
+* [复写了一个小型 STL](https://github.com/Alinshans/MyTinySTL)
+* [重温同年俄罗斯方块](https://github.com/taylorconor/tinytetris)
+* [Windows 系统预装的计算器](https://github.com/microsoft/calculator)
+* [C++实现双人对战五子棋项目](https://github.com/zz2summer/GoBangByCpp)
+* [自动走迷宫](https://github.com/Superone77/Cpp-basic-learning/tree/master/imooc_code/mazecode)
+* [俄罗斯方块](https://github.com/newhappy3/C-LanguageProjectCombat/tree/master/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97)
+* [学生管理系统](https://github.com/newhappy3/C-LanguageProjectCombat/tree/master/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
+* [用cocos2dx做的微信<<飞机大战>>游戏](https://github.com/Ayloss/AirPlaneGame)
+* [坦克大战](https://github.com/WuYufeng233/Tank3000)
+* [球球大作战](https://github.com/hw-sudo/Big_fight)
+* [智能人机五子棋对战](https://github.com/happysnaker/Gobang)
+* [三国杀](https://github.com/snkkka163/sanguosha)
 
 
 ### 📀 视频
@@ -123,6 +136,82 @@
 * [CC++开发《用户与密码验证系统》](https://www.bilibili.com/video/BV1xg411P7aL?p=21)
 
 * [服务器开发入门必学核心知识](https://www.bilibili.com/video/BV1xg411P7aL?p=22)
+
+### 🍳 软件
+
+#### 编译器
+
+C/C++编译器列表
+
+- [Clang](http://clang.llvm.org/) :由苹果公司开发的
+- [GCC](https://gcc.gnu.org/)：GNU编译器集合
+- [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) ：由英特尔公司开发
+- [LLVM](http://llvm.org/) ：模块化和可重用编译器和工具链技术的集合
+- [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) ：MSVC，由微软公司开发
+- [Open WatCom](http://www.openwatcom.org/index.php/Main_Page) ：Watcom，C，C++和Fortran交叉编译器和工具
+- [TCC](http://bellard.org/tcc/) ：轻量级的C语言编译器
+
+#### 在线编译器
+
+在线C/C++编译器列表
+
+- [codepad](http://codepad.org/) ：在线编译器/解释器，一个简单的协作工具
+- [CodeTwist](http://codetwist.com/)：一个简单的在线编译器/解释器，你可以粘贴的C,C++或者Java代码，在线执行并查看结果
+- [coliru](http://coliru.stacked-crooked.com/) ：在线编译器/shell， 支持各种C++编译器
+- [Compiler Explorer](http://gcc.godbolt.org/)：交互式编译器，可以进行汇编输出
+- [CompileOnline](http://www.compileonline.com/compile_cpp11_online.php)：Linux上在线编译和执行C++程序
+- [Ideone](http://ideone.com/) ：一个在线编译器和调试工具，允许你在线编译源代码并执行，支持60多种编程语言。
+
+#### 调试器
+
+C/C++调试器列表
+
+- [Comparison of debuggers](http://en.wikipedia.org/wiki/Comparison_of_debuggers) ：来自维基百科的调试器列表
+- [GDB](https://www.gnu.org/software/gdb) ：GNU调试器
+- [Valgrind](http://valgrind.org/)：内存调试，内存泄露检测，性能分析工具。
+
+#### 集成开发环境（IDE）
+
+C/C++集成开发环境列表
+
+- [AppCode](http://www.jetbrains.com/objc/) ：构建与JetBrains’ IntelliJ IDEA 平台上的用于Objective-C，C,C++，Java和Java开发的集成开发环境
+- [CLion](http://www.jetbrains.com/clion/)：来自JetBrains的跨平台的C/C++的集成开发环境
+- [Code::Blocks](http://www.codeblocks.org/) ：免费C，C++和Fortran的集成开发环境
+- [CodeLite](http://codelite.org/) ：另一个跨平台的免费的C/C++集成开发环境
+- [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/)：可移植的C/C++/C++11集成开发环境
+- [Eclipse CDT](http://www.eclipse.org/cdt/)：基于Eclipse平台的功能齐全的C和C++集成开发环境
+- [Geany](http://www.geany.org/) ：轻量级的快速，跨平台的集成开发环境。
+- [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) ：来自IBM的家庭计算机集成开发环境。
+- [Irony-mode](https://github.com/Sarcasm/irony-mode)：由libclang驱动的用于Emacs的C/C++微模式
+- [KDevelop](https://www.kdevelop.org/)：免费开源集成开发环境
+- [Microsoft Visual Studio](http://www.visualstudio.com/) ：来自微软的集成开发环境
+- [NetBeans](https://netbeans.org/) ：主要用于Java开发的的集成开发环境，也支持其他语言，尤其是PHP，C/C++和HTML5。
+- [Qt Creator](http://qt-project.org/)：跨平台的C++，Javascript和QML集成开发环境，也是Qt SDK的一部分。
+- [rtags](https://github.com/Andersbakken/rtags)：C/C++的客户端服务器索引，用于 跟基于clang的emacs的集成
+- [Xcode](https://developer.apple.com/xcode/) ：由苹果公司开发
+- [YouCompleteMe](https://valloric.github.io/YouCompleteMe/)：一个用于Vim的根据你敲的代码快速模糊搜索并进行代码补全的引擎。
+
+#### 构建系统
+
+- [Bear](https://github.com/rizsotto/Bear) ：用于为clang工具生成编译数据库的工具
+- [Biicode](https://www.biicode.com/)：基于文件的简单依赖管理器。
+- [CMake](http://www.cmake.org/) ：跨平台的免费开源软件用于管理软件使用独立编译的方法进行构建的过程。
+- [CPM](https://github.com/iauns/cpm)：基于CMake和Git的C++包管理器
+- [FASTBuild](http://www.fastbuild.org/docs/home.html)：高性能，开源的构建系统，支持高度可扩展性的编译，缓冲和网络分布。
+- [Ninja](http://martine.github.io/ninja/) ：专注于速度的小型构建系统
+- [Scons](http://www.scons.org/) ：使用Python scipt 配置的软件构建工具
+- [tundra](https://github.com/deplinenoise/tundra) ：高性能的代码构建系统，甚至对于非常大型的软件项目，也能提供最好的增量构建次数。
+- [tup](http://gittup.org/tup/)：基于文件的构建系统，用于后台监控变化的文件。
+
+#### 静态代码分析
+
+提高质量，减少瑕疵的代码分析工具列表
+
+- [Cppcheck](http://cppcheck.sourceforge.net/) ：静态C/C++代码分析工具
+- [include-what-you-use](https://code.google.com/p/include-what-you-use/) ：使用clang进行代码分析的工具，可以#include在C和C++文件中。
+- [OCLint](http://oclint.org/) ：用于C，C++和Objective-C的静态源代码分析工具，用于提高质量，减少瑕疵。
+- [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html)：查找C，C++和Objective-C程序bug的源代码分析工具
+- [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) ：来自维基百科的静态代码分析工具列表
 
 
 ### 🌐 网站推荐
@@ -706,95 +795,4 @@
 ##### [199、（0226）翻转二叉树](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 ##### [200、（0226）翻转二叉树](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
-### 🏗 项目实战
-
-* [复写了一个小型 STL](https://github.com/Alinshans/MyTinySTL)
-* [重温同年俄罗斯方块](https://github.com/taylorconor/tinytetris)
-* [Windows 系统预装的计算器](https://github.com/microsoft/calculator)
-
-* [C++实现双人对战五子棋项目](https://github.com/zz2summer/GoBangByCpp)
-* [自动走迷宫](https://github.com/Superone77/Cpp-basic-learning/tree/master/imooc_code/mazecode)
-* [俄罗斯方块](https://github.com/newhappy3/C-LanguageProjectCombat/tree/master/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97)
-* [学生管理系统](https://github.com/newhappy3/C-LanguageProjectCombat/tree/master/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
-* [用cocos2dx做的微信<<飞机大战>>游戏](https://github.com/Ayloss/AirPlaneGame)
-* [坦克大战](https://github.com/WuYufeng233/Tank3000)
-* [球球大作战](https://github.com/hw-sudo/Big_fight)
-* [智能人机五子棋对战](https://github.com/happysnaker/Gobang)
-* [三国杀](https://github.com/snkkka163/sanguosha)
-
-### 🍳 软件
-
-#### 编译器
-
-C/C++编译器列表
-
-- [Clang](http://clang.llvm.org/) :由苹果公司开发的
-- [GCC](https://gcc.gnu.org/)：GNU编译器集合
-- [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) ：由英特尔公司开发
-- [LLVM](http://llvm.org/) ：模块化和可重用编译器和工具链技术的集合
-- [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) ：MSVC，由微软公司开发
-- [Open WatCom](http://www.openwatcom.org/index.php/Main_Page) ：Watcom，C，C++和Fortran交叉编译器和工具
-- [TCC](http://bellard.org/tcc/) ：轻量级的C语言编译器
-
-#### 在线编译器
-
-在线C/C++编译器列表
-
-- [codepad](http://codepad.org/) ：在线编译器/解释器，一个简单的协作工具
-- [CodeTwist](http://codetwist.com/)：一个简单的在线编译器/解释器，你可以粘贴的C,C++或者Java代码，在线执行并查看结果
-- [coliru](http://coliru.stacked-crooked.com/) ：在线编译器/shell， 支持各种C++编译器
-- [Compiler Explorer](http://gcc.godbolt.org/)：交互式编译器，可以进行汇编输出
-- [CompileOnline](http://www.compileonline.com/compile_cpp11_online.php)：Linux上在线编译和执行C++程序
-- [Ideone](http://ideone.com/) ：一个在线编译器和调试工具，允许你在线编译源代码并执行，支持60多种编程语言。
-
-#### 调试器
-
-C/C++调试器列表
-
-- [Comparison of debuggers](http://en.wikipedia.org/wiki/Comparison_of_debuggers) ：来自维基百科的调试器列表
-- [GDB](https://www.gnu.org/software/gdb) ：GNU调试器
-- [Valgrind](http://valgrind.org/)：内存调试，内存泄露检测，性能分析工具。
-
-#### 集成开发环境（IDE）
-
-C/C++集成开发环境列表
-
-- [AppCode](http://www.jetbrains.com/objc/) ：构建与JetBrains’ IntelliJ IDEA 平台上的用于Objective-C，C,C++，Java和Java开发的集成开发环境
-- [CLion](http://www.jetbrains.com/clion/)：来自JetBrains的跨平台的C/C++的集成开发环境
-- [Code::Blocks](http://www.codeblocks.org/) ：免费C，C++和Fortran的集成开发环境
-- [CodeLite](http://codelite.org/) ：另一个跨平台的免费的C/C++集成开发环境
-- [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/)：可移植的C/C++/C++11集成开发环境
-- [Eclipse CDT](http://www.eclipse.org/cdt/)：基于Eclipse平台的功能齐全的C和C++集成开发环境
-- [Geany](http://www.geany.org/) ：轻量级的快速，跨平台的集成开发环境。
-- [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) ：来自IBM的家庭计算机集成开发环境。
-- [Irony-mode](https://github.com/Sarcasm/irony-mode)：由libclang驱动的用于Emacs的C/C++微模式
-- [KDevelop](https://www.kdevelop.org/)：免费开源集成开发环境
-- [Microsoft Visual Studio](http://www.visualstudio.com/) ：来自微软的集成开发环境
-- [NetBeans](https://netbeans.org/) ：主要用于Java开发的的集成开发环境，也支持其他语言，尤其是PHP，C/C++和HTML5。
-- [Qt Creator](http://qt-project.org/)：跨平台的C++，Javascript和QML集成开发环境，也是Qt SDK的一部分。
-- [rtags](https://github.com/Andersbakken/rtags)：C/C++的客户端服务器索引，用于 跟基于clang的emacs的集成
-- [Xcode](https://developer.apple.com/xcode/) ：由苹果公司开发
-- [YouCompleteMe](https://valloric.github.io/YouCompleteMe/)：一个用于Vim的根据你敲的代码快速模糊搜索并进行代码补全的引擎。
-
-#### 构建系统
-
-- [Bear](https://github.com/rizsotto/Bear) ：用于为clang工具生成编译数据库的工具
-- [Biicode](https://www.biicode.com/)：基于文件的简单依赖管理器。
-- [CMake](http://www.cmake.org/) ：跨平台的免费开源软件用于管理软件使用独立编译的方法进行构建的过程。
-- [CPM](https://github.com/iauns/cpm)：基于CMake和Git的C++包管理器
-- [FASTBuild](http://www.fastbuild.org/docs/home.html)：高性能，开源的构建系统，支持高度可扩展性的编译，缓冲和网络分布。
-- [Ninja](http://martine.github.io/ninja/) ：专注于速度的小型构建系统
-- [Scons](http://www.scons.org/) ：使用Python scipt 配置的软件构建工具
-- [tundra](https://github.com/deplinenoise/tundra) ：高性能的代码构建系统，甚至对于非常大型的软件项目，也能提供最好的增量构建次数。
-- [tup](http://gittup.org/tup/)：基于文件的构建系统，用于后台监控变化的文件。
-
-#### 静态代码分析
-
-提高质量，减少瑕疵的代码分析工具列表
-
-- [Cppcheck](http://cppcheck.sourceforge.net/) ：静态C/C++代码分析工具
-- [include-what-you-use](https://code.google.com/p/include-what-you-use/) ：使用clang进行代码分析的工具，可以#include在C和C++文件中。
-- [OCLint](http://oclint.org/) ：用于C，C++和Objective-C的静态源代码分析工具，用于提高质量，减少瑕疵。
-- [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html)：查找C，C++和Objective-C程序bug的源代码分析工具
-- [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) ：来自维基百科的静态代码分析工具列表
 
