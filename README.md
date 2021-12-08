@@ -103,6 +103,25 @@
 * [植物大战僵尸](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle)
 * [为知笔记跨平台客户端](https://github.com/WizTeam/WizQTClient)
 * [epoll+线程池的网络库、IO缓冲、异步日志、超时机制](https://github.com/GeniusDai/kingpin)
+* [一个简单的IM客户端和服务器](https://github.com/DennisThink/TinyIM)
+* [王者荣耀风格的连连看程序](https://github.com/TheThreeDog/PictureMatching)
+* [ST-PUZZLE](https://github.com/I-m-Eden/ST_PUZZLE_2.0)
+* [蘑菇街开源的一款用于企业内部的即时通信工具](https://github.com/balloonwj/TeamTalk)
+* [即时通讯软件 flamingo](https://github.com/balloonwj/flamingo)
+* [高精度计时器](https://github.com/FJianC/StopWatch)
+* [自己实现智能指针](https://github.com/shimachao/smart_ptr)
+* [扫雷](https://github.com/xiaoxi666/mines_sweeper)
+* [2048](https://github.com/plibither8/2048.cpp)
+* [蜘蛛纸牌](https://github.com/jie65535/Ancient-Spider)
+* [纸牌游戏空当接龙](https://github.com/SeanLiaoy/Qt_FreeCell)
+* [纯C++ 捕鱼游戏](https://github.com/yinhui1129754/CppFishingCode)
+* [高仿《节奏大师》游戏](https://github.com/ZeroYang/Rhythm)
+* [传奇 挂机类游戏](https://github.com/simon0xia/mirror)
+* [C++ 和 OpenGL 实现简单的 3D 赛车](https://github.com/ceynri/3d-racing-games-demo)
+* [魂斗罗](https://github.com/philhuan/Contra)
+* [迷宫](https://github.com/UNLOSTER/Maze)
+* [C语言小项目小游戏（适合初学者）](https://github.com/shushabgyuanyue/c)
+
 
 
 ### 📀 视频
