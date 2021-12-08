@@ -87,6 +87,22 @@
 * [球球大作战](https://github.com/hw-sudo/Big_fight)
 * [智能人机五子棋对战](https://github.com/happysnaker/Gobang)
 * [三国杀](https://github.com/snkkka163/sanguosha)
+* [任天堂红白机模拟器](https://github.com/amhndu/SimpleNES)
+* [用C++实现的微内核的操作系统](https://github.com/Neirth/FreeNOS)
+* [音乐播放器](https://github.com/clangen/musikcube)
+* [Web 框架](https://github.com/oatpp/oatpp)
+* [终端复用软件](https://github.com/tmux/tmux)
+* [Linux系统实时性能和运行状况的系统监控工具](https://github.com/netdata/netdata)
+* [简单的基于 UNIX 的操作系统](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+* [初学者快速实现网络编程、搭建属于自己的轻量级Web服务器的小项目](https://github.com/qinguoyi/TinyWebServer)
+* [贪吃蛇](https://github.com/bystc/Snake-cpp)
+* [魔塔](https://github.com/seavers/MagicTower)
+* [点餐系统](https://github.com/lvyahui8/DiningSystem)
+* [数据可视化桌面工具](https://github.com/Serial-Studio/Serial-Studio)
+* [Windows 比较和合并工具](https://link.zhihu.com/?target=https%3A//github.com/WinMerge/winmerge)
+* [植物大战僵尸](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle)
+* [为知笔记跨平台客户端](https://github.com/WizTeam/WizQTClient)
+* [epoll+线程池的网络库、IO缓冲、异步日志、超时机制](https://github.com/GeniusDai/kingpin)
 
 
 ### 📀 视频
