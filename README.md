@@ -724,7 +724,7 @@
 
 ### 🍳 软件
 
-#### [编译器](https://www.cnblogs.com/kuliuheng/p/4076415.html#HEAD2)
+#### 编译器
 
 C/C++编译器列表
 
@@ -736,7 +736,7 @@ C/C++编译器列表
 - [Open WatCom](http://www.openwatcom.org/index.php/Main_Page) ：Watcom，C，C++和Fortran交叉编译器和工具
 - [TCC](http://bellard.org/tcc/) ：轻量级的C语言编译器
 
-#### [在线编译器](https://www.cnblogs.com/kuliuheng/p/4076415.html#HEAD2)
+#### 在线编译器
 
 在线C/C++编译器列表
 
@@ -747,7 +747,7 @@ C/C++编译器列表
 - [CompileOnline](http://www.compileonline.com/compile_cpp11_online.php)：Linux上在线编译和执行C++程序
 - [Ideone](http://ideone.com/) ：一个在线编译器和调试工具，允许你在线编译源代码并执行，支持60多种编程语言。
 
-#### [调试器](https://www.cnblogs.com/kuliuheng/p/4076415.html#HEAD2)
+#### 调试器
 
 C/C++调试器列表
 
@@ -755,7 +755,7 @@ C/C++调试器列表
 - [GDB](https://www.gnu.org/software/gdb) ：GNU调试器
 - [Valgrind](http://valgrind.org/)：内存调试，内存泄露检测，性能分析工具。
 
-#### [集成开发环境（IDE）](https://www.cnblogs.com/kuliuheng/p/4076415.html#HEAD2)
+#### 集成开发环境（IDE）
 
 C/C++集成开发环境列表
 
@@ -776,7 +776,7 @@ C/C++集成开发环境列表
 - [Xcode](https://developer.apple.com/xcode/) ：由苹果公司开发
 - [YouCompleteMe](https://valloric.github.io/YouCompleteMe/)：一个用于Vim的根据你敲的代码快速模糊搜索并进行代码补全的引擎。
 
-#### [构建系统](https://www.cnblogs.com/kuliuheng/p/4076415.html#HEAD2)
+#### 构建系统
 
 - [Bear](https://github.com/rizsotto/Bear) ：用于为clang工具生成编译数据库的工具
 - [Biicode](https://www.biicode.com/)：基于文件的简单依赖管理器。
@@ -788,7 +788,7 @@ C/C++集成开发环境列表
 - [tundra](https://github.com/deplinenoise/tundra) ：高性能的代码构建系统，甚至对于非常大型的软件项目，也能提供最好的增量构建次数。
 - [tup](http://gittup.org/tup/)：基于文件的构建系统，用于后台监控变化的文件。
 
-#### [静态代码分析](https://www.cnblogs.com/kuliuheng/p/4076415.html#HEAD2)
+#### 静态代码分析
 
 提高质量，减少瑕疵的代码分析工具列表
 
