@@ -81,8 +81,8 @@ No.|project name|introduce
   
 ### [游  戏]() 
   
-No.|project name|introduce|link
-:--------------: | :-------: | :-------: | :---------:
+No.|project name|introduce
+:--------------: | :-------: | :-------: 
 1|[tinytetris](https://github.com/taylorconor/tinytetris)|重温同年俄罗斯方块
 2|[GoBangByCpp](https://github.com/zz2summer/GoBangByCpp)|C++实现双人对战五子棋项目
 3|[mazecode](https://github.com/Superone77/Cpp-basic-learning/tree/master/imooc_code/mazecode)|自动走迷宫:慕课网C++课程封装篇作业，自动走迷宫 
