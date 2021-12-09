@@ -22,7 +22,7 @@
 感谢您的支持！
 
 <p align="center">
-  <a href="https://github.com/0voice/learning_mind_map/blob/main/README.md#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F"><img src="https://img.shields.io/badge/微信公众号-green" alt=""></a>
+  <a href="https://github.com/0voice/introduce_c-cpp_manual#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F"><img src="https://img.shields.io/badge/微信公众号-green" alt=""></a>
 </p>
 
 ## 🏗 练手项目实战
