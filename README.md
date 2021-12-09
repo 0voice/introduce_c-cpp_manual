@@ -459,5 +459,12 @@ C/C++集成开发环境列表
 ##### [49、（0049）字母异位词分组](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md)
 ##### [50、（0050）Pow(x, n)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/Pow(x%2C%20n).md)
 
+## 联系专栏
+
+#### 每天晚上8点【免费技术直播】：分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容。<br>
+
+#### 关注微信公众号【后台服务架构师】👉【联系我们】（备注github直播链接），获取直播链接！
+
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
 
 
