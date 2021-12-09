@@ -1,6 +1,5 @@
 # 🐮 全网搜集C/C++入门练手项目实战，包含100+经典项目，大厂面经，学习视频，推荐书籍，面试题/算法题
 <br/>
-<br/>
 
 <div  align=center>
   
@@ -8,7 +7,6 @@
   
 </div>
 
-<br/>
 <br/>
 
 本repo搜集全网适合C/C++入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，帮助大家更好地学习c/c++。
@@ -63,7 +61,6 @@ No.|project name|introduce|link
 
 </div>
 
-<br/>
 <br/>
 
 <div  align=center>
