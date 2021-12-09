@@ -1,4 +1,29 @@
 # 🐮 全网搜集C/C++入门练手项目实战，包含100+经典项目，大厂面经，学习视频，推荐书籍，面试题/算法题
+<br/>
+<br/>
+
+<div  align=center>
+  
+![project](https://github.com/taylorconor/tinytetris/blob/master/animation.gif?raw=true)
+  
+</div>
+
+<br/>
+<br/>
+
+本repo搜集全网适合C/C++入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，帮助大家更好地学习c/c++。
+
+**所有数据来源于互联网。所谓取之于互联网，用之于互联网。**
+
+如果涉及版权侵犯，请邮件至 wchao_isvip@163.com ，我们将第一时间处理。
+
+如果您对我们的项目表示赞同与支持，欢迎您 [lssues](https://github.com/0voice/learning_mind_map/issues) 我们，或者邮件 wchao_isvip@163.com 我们，更加欢迎您 [pull requests](https://github.com/0voice/learning_mind_map/pulls) 加入我们。
+
+感谢您的支持！
+
+<p align="center">
+  <a href="https://github.com/0voice/learning_mind_map/blob/main/README.md#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F"><img src="https://img.shields.io/badge/微信公众号-green" alt=""></a>
+</p>
 
 ## 🏗 练手项目实战
 
