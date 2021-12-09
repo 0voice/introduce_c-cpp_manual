@@ -57,7 +57,21 @@ No.|project name|introduce|link
 24|简单http服务器|C++实现的简单http服务器（进程池+epoll）|[tinyserver](https://github.com/dxscjx123/tinyserver)
 25|C++11 实现的动态线程池||[dpool](https://github.com/senlinzhan/dpool)  
 26|MySql数据库的连接池|MySql数据库的连接池实现，多用户的数据库访问。能够很好的管理数据库的连接|[MysqlPool](https://github.com/primer9999/MysqlPool)  
-27|||[]()  
+27|反射系统|一个使用c++ 11的小型、灵活的运行时反射系统的示例项目|[FlexibleReflection](https://github.com/preshing/FlexibleReflection)  
+28|c++编程语言的小项目|选举制度、注册系统、学生系统、OpenGL的项目|[CPlusPlus-Playground](https://github.com/vladislav-karamfilov/CPlusPlus-Playground)    
+29|Unreal-Engine-Fundamentals|收集各种虚幻引擎c++基础的小项目|[Unreal-Engine-Fundamentals](https://github.com/jollymonsterstudio/Unreal-Engine-Fundamentals)    
+30|SNMP++|Mobile SNMP++是一个iOS项目，你可以把它包含在你自己的项目中，这样你就可以执行一些SNMP命令。|[mobile-snmp-plusplus](https://github.com/Zchander/mobile-snmp-plusplus)    
+31|学籍管理系统|科技的进步影响着社会，使社会走向成功。每一次技术革新都是人类进步和进步的一小步。信息技术的发展也对教育组织产生了影响。|[School-Management-System](https://github.com/cdeepanshu/School-Management-System)
+32|qReader|C++和qml小说阅读器项目|[qReader](https://github.com/RownH/qReader)    
+33|双端即时通讯软件|C语言实现双端即时通讯软件|[510850111/IM](https://github.com/510850111/IM)    
+34|公交线路查询系统客户端|这是一个项目，C/S架构，服务端为C++，客户端为Qt，XML为小型数据库，主要是为了进行一些XML的操作|[XmlProject](https://github.com/puppym/XmlProject)    
+35|通讯录|C语言小项目——通讯录|[c_contacts](https://github.com/yorick-li/c_contacts)
+36|智能车寻迹小车|2014年暑假做的一个项目，智能车寻迹小车，项目代码两个人完成，我负责图像采集、处理、中线提取、弯道判断等几个部分，项目C语言实现。|[SmartCar](https://github.com/qfxyx/SmartCar)    
+37|小众日记app|QT（C++）开发小众日记app项目|[ZYunfeii/QT](https://github.com/ZYunfeii/QT)
+38|通讯录管理系统||[management-system](https://github.com/ShouchengHe/management-system)    
+39|难度中等的一个C++算法小项目||[Algorithm-Exercise](https://github.com/LDCS96/Algorithm-Exercise)    
+40|算法设计平台||[small_project](https://github.com/Sugar0612/small_project/tree/main/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E5%B9%B3%E5%8F%B0)    
+41|职工工资信息管理系统||[Worker](https://github.com/deng1604/Worker)  
 
 </div>
 
@@ -96,8 +110,9 @@ No.|project name|introduce|link
 25|C++ 和 OpenGL 实现简单的 3D 赛车|使用 C++ 和 OpenGL 实现简单的 3D 赛车游戏|[3d-racing-games-demo](https://github.com/ceynri/3d-racing-games-demo)   
 26|魂斗罗|使用图形库easyx写的c++魂斗罗游戏|[Contra](https://github.com/philhuan/Contra)   
 27|迷宫|基于C++-EasyX编写的益智小游戏-迷宫|[Maze](https://github.com/UNLOSTER/Maze) 
-28|C语言小项目小游戏（适合初学者）|N个小游戏项目|[shushabgyuanyue/c](https://github.com/shushabgyuanyue/c)  
-29|||[]()   
+28|C语言小项目小游戏（适合初学者）|N个小游戏项目|[shushabgyuanyue/c](https://github.com/shushabgyuanyue/c) 
+29|game_2048|在实验楼学习的C语言项目，2048小游戏。|[game_2048](https://github.com/VectorWWW/game_2048)    
+30|||[]()   
 
   
   
