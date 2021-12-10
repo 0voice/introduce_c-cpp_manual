@@ -112,9 +112,28 @@ No.|project name|introduce
 27|[Maze](https://github.com/UNLOSTER/Maze)|基于C++-EasyX编写的益智小游戏-迷宫
 28|[shushabgyuanyue/c](https://github.com/shushabgyuanyue/c)|N个小游戏项目（适合初学者）
 29|[game_2048](https://github.com/VectorWWW/game_2048)|在实验楼学习的C语言项目，2048小游戏。
-30|||[]()   
+30|[JumpByJump](https://github.com/hubojing/JumpByJump)|C++版微信跳一跳小游戏辅助程序
+31|[ChineseChesses](https://github.com/FlyAndNotDown/ChineseChesses)|双人象棋小游戏 - C++ - Windows GDI
+32|[Word-Games](https://github.com/Wenretium/Word-Games)|C++实现带GUI背单词小游戏
+33|[NumberGuess](https://github.com/LargeRaindrop/NumberGuess)|基于C++的猜数字小游戏  
+34|[Puzzle](https://github.com/dengguangshi/Puzzle)|C/C++拼图小游戏
+35|[loliRun](https://github.com/zhangyugege/loliRun)|萝莉酷跑小游戏
+36|[Study-of-C-](https://github.com/Burgbug/Study-of-C-)|学堂在线C++ of Linux 的小项目，使用随机数库编写的简单控制台游戏（猜数游戏）
+37|[jijinlong/colors](https://github.com/jijinlong/colors)|一款实用Lua+C++ 的消除类小游戏  
+38|[Cgames](https://github.com/yh1094632455/Cgames)|c语言经典200多个有趣的程序和游戏
+39|[Shoot-The-Chicken-3D](https://github.com/CHINA-JIGE/Shoot-The-Chicken-3D)|基于c++控制台的3D第一人称射击(FPS)游戏，项目包含软件渲染器、游戏引擎层、游戏逻辑层 
+40|[bounce-ball](https://github.com/muxiaozi/bounce-ball)|弹弹乐-C语言控制台游戏 
+41|[shining-yang/DDZ](https://github.com/shining-yang/DDZ)|DDZ（斗地主）- Win32 C/C++编写的斗地主游戏程序
+42|[sudoku](https://github.com/mayerui/sudoku)|C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
+43|[2019-2020-tjse-sour-knight](https://github.com/lightmountainwolf/2019-2020-tjse-sour-knight)|2019-2020 同济软工大项目 c++游戏
+44|[LianZhu](https://github.com/seashell752/LianZhu)|海底连珠，基于Cocos2d-x-3.3游戏引擎，C++版本的一个五子连珠消除类游戏，可以学习基本的Cocos2d-x游戏开发，用到A*(A star)寻路算法，消除算法。  
+45|[historyme/fmj_cpp](https://github.com/historyme/fmj_cpp)|步步高伏魔记游戏 c++版本
+46|[SimpleNES](https://github.com/amhndu/SimpleNES)|一个用 C++ 编写的 NES 模拟器，只是为了好玩。超级马里奥兄弟。反对派、冒险岛、忍者外传、营救小组、洛克人和洛克人 2、马里欧兄弟。、大金刚和小金刚、战城、报童、塞尔达传说、吃豆子、网球、励志单车  
+47|[CPP-DrawGuess](https://github.com/hanmin0822/CPP-DrawGuess)|一个C++编写的，使用C/S架构的、实时、可选房间、多人同房的你画我猜游戏
+48|[CoinFlap](https://github.com/HAO1171965789/CoinFlap)|C++金币翻转游戏  
+49|[richman](https://github.com/czl0325/richman)|c++写的大富翁游戏，适合入门初学者。
+50|[CubeMiniGame](https://github.com/tangziwen/CubeMiniGame)|Cube Engine是一个用c++编写的小型图形引擎，由OpenGL和Vulkan提供支持，我开发它是为了提高我的CG知识和通用编程技能(通用算法，代码风格，设计模式)。
 
-  
   
 </div>  
   
