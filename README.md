@@ -72,6 +72,15 @@ No.|project name|introduce
 39|[Algorithm-Exercise](https://github.com/LDCS96/Algorithm-Exercise)| 难度中等的一个C++算法小项目
 40|[small_project](https://github.com/Sugar0612/small_project/tree/main/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E5%B9%B3%E5%8F%B0)|算法设计平台   
 41|[Worker](https://github.com/deng1604/Worker)|职工工资信息管理系统
+42|[Liunx-Timely-communication-project](https://github.com/YanMario/Liunx-Timely-communication-project)|在Linux下用C/C++语言开发的即时通讯项目，用了libevent、多线程、mysql等技术
+43|[MyPoorWebServer](https://github.com/forthespada/MyPoorWebServer)|一款可运行的基于C++ 实现的HTTP服务器，基于《TCPIP网络编程》和《Linux高性能服务器编程》实现的服务器项目。
+44|[network-dash](https://github.com/foshougua/network-dash)|模拟百度网盘实现的一个简单文件传输和下载的c/s模式的项目
+45|[parse-gcode](https://github.com/liuwentao1992/parse-gcode)|新手C++入门项目: 解析G代码/三维轨迹仿真/机器人仿真/代码行1W+/面向对象风格/涵盖所有C++基础知识
+46|[PrinterMonitorLib](https://github.com/CaoMengLong/PrinterMonitorLib)|这是监控打印机状态的C++ DLL项目，可以方便的查询到当前打印机正在打印的文件状态，可以用于监控文档是否打印成功，打印机是否缺纸，打印机是否异常等状态
+47|[NeVehicleLicensePlateRecognition](https://github.com/tianyalu/NeVehicleLicensePlateRecognition)|车牌识别C++项目
+48|[ZLToolKit](https://github.com/ZLMediaKit/ZLToolKit)|一个基于C++11的轻量级网络框架，基于线程池技术可以实现大并发网络IO
+49|[librf](https://github.com/tearshark/librf)|基于C++ Coroutines编写的无栈协程库
+50|[Qt-studentmanager](https://github.com/chenyongzhe/Qt-studentmanager)|C++ Qt 基于数据库Mysql学生信息管理系统
 
 </div>
 
@@ -133,7 +142,7 @@ No.|project name|introduce
 48|[CoinFlap](https://github.com/HAO1171965789/CoinFlap)|C++金币翻转游戏  
 49|[richman](https://github.com/czl0325/richman)|c++写的大富翁游戏，适合入门初学者。
 50|[CubeMiniGame](https://github.com/tangziwen/CubeMiniGame)|Cube Engine是一个用c++编写的小型图形引擎，由OpenGL和Vulkan提供支持，我开发它是为了提高我的CG知识和通用编程技能(通用算法，代码风格，设计模式)。
-
+51|[ArenaofValor](https://github.com/Xuedixuedi/ArenaofValor)|同济大学软件学院18级C++大项目——王者荣耀
   
 </div>  
   
