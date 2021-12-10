@@ -21,6 +21,8 @@
 
 <p align="center">
   <a href="https://github.com/0voice/introduce_c-cpp_manual#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F"><img src="https://img.shields.io/badge/微信公众号-green" alt=""></a>
+  <a href="https://www.zhihu.com/people/xiao-zhai-nu-linux"><img src="https://img.shields.io/badge/知乎-blue" alt=""></a>
+  <a href="https://space.bilibili.com/64514973"><img src="https://img.shields.io/badge/bilibili-red" alt=""></a>
 </p>
 
 ## 🏗 练手项目实战（排名不分先后）
