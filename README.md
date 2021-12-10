@@ -29,7 +29,7 @@
 
 <div  align=center>
   
-### [小项目、工具]() 
+### [100个一学就会的项目，含源码]() 
   
 No.|project name|introduce
 :--------------: | :-------: | :-------: 
@@ -113,7 +113,7 @@ No.|project name|introduce
 
 <div  align=center>
   
-### [游  戏]() 
+### [经典游戏]() 
   
 No.|project name|introduce
 :--------------: | :-------: | :-------: 
