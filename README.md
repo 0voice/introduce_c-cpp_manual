@@ -81,6 +81,29 @@ No.|project name|introduce
 48|[ZLToolKit](https://github.com/ZLMediaKit/ZLToolKit)|一个基于C++11的轻量级网络框架，基于线程池技术可以实现大并发网络IO
 49|[librf](https://github.com/tearshark/librf)|基于C++ Coroutines编写的无栈协程库
 50|[Qt-studentmanager](https://github.com/chenyongzhe/Qt-studentmanager)|C++ Qt 基于数据库Mysql学生信息管理系统
+51|[timer](https://github.com/hidva/timer)|C++ 定时器, 基于 C++11, libuv 实现  
+52|[duck_db](https://github.com/enpeizhao/duck_db)|c/c++ build a simple b+tree RDMS（利用c/c++ 开发基于B+树的小型关系型数据库 ）  
+53|[eddyserver](https://github.com/zhangpanyi/eddyserver)|基于C++14和ASIO实现高并发TCP网络框架  
+54|[BooksManageSystem](https://github.com/sjaiwl/BooksManageSystem)|基于C++实现简易图书管理系统 
+55|[Miaoshuai/netlib](https://github.com/Miaoshuai/netlib)|一个自己封装的基于reactor的c++网络库  
+56|[iEternity/HttpClient](https://github.com/iEternity/HttpClient)|使用C++11风格，基于libcurl库封装的HTTP客户端。 
+57|[gatsbyd/melon](https://github.com/gatsbyd/melon)|基于协程和事件循环的c++网络库
+58|[niliushall/webServer](https://github.com/niliushall/webServer)|基于C++使用 epoll + threadpool 实现的 webServer，支持GET、POST  
+59|[owenliang/task_schedule](https://github.com/owenliang/task_schedule)|(C++)基于图数据结构与拓扑序列的任务调度demo  
+60|[Easy-Reactor](https://github.com/LeechanX/Easy-Reactor)|Easy-Reactor是一个Linux C++高性能TCP服务框架，基于Reactor模式，支持单线程、多线程Reactor，也支持UDP服务  
+61|[CxxDBC](https://github.com/cxxjava/CxxDBC)|基于C++开发的异种数据库跨平台连接中间件.  
+62|[starjiang/lce](https://github.com/starjiang/lce)|linux网络编程框架（C++）基于Reactor事件机制，支持线程池，异步非阻塞，高并发，高性能  
+63|[CHATROOM_C](https://github.com/SequinYF/CHATROOM_C)|基于C语言聊天室，可进行文件传输  
+64|[StudentManagementSystem](https://github.com/fengyunkkx/StudentManagementSystem)|Student Management System | 一个基于 C++ 编写的学生成绩管理系统  
+65|[logcc](https://github.com/xiaodajiang/logcc)|基于log4cplus封装的简单易用的c++日志库。  
+66|[ScreenRecoder](https://github.com/imengyu/ScreenRecoder)|这是一个基于FFmpeg使用 C# 、C++ 开发的最简单的屏幕录制软件。 
+67|[weijunji/TCP-CPP](https://github.com/weijunji/TCP-CPP)|基于C++实现的用户态TCP协议
+68|[mxway/ftp](https://github.com/mxway/ftp)|基于c++实现ftp客户端，服务端程序 
+69|[HighPerformanceConcurrentServer](https://github.com/CandyConfident/HighPerformanceConcurrentServer)|基于C++11、部分C++14/17特性的一个高性能并发httpserver，包括日志、线程池、内存池、定时器、网络io、http、数据库连接等模块。模块间低耦合高内聚，可作为整体也可单独提供服务。对各模块提供单元测试，对httpserver整体提供性能测试。  
+70|[Blocks233/Message](https://github.com/Blocks233/Message)|C++基于UDP的聊天软件  
+71|[]()|  
+  
+  
 
 </div>
 
