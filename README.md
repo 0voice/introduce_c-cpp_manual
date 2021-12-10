@@ -25,7 +25,7 @@
   <a href="https://space.bilibili.com/64514973"><img src="https://img.shields.io/badge/bilibili-red" alt=""></a>
 </p>
 
-## 🏗 练手项目实战（排名不分先后）
+## 🏗 项目实战（排名不分先后）
 
 <div  align=center>
   
