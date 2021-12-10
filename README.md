@@ -215,6 +215,12 @@ No.|project name|introduce
 
 * [面向对象编程](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B.pdf)
 
+* [c/c++面试必须会的问题](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/c%E4%B8%8Ec%2B%2B%E9%9D%A2%E8%AF%95%E5%BF%85%E9%A1%BB%E4%BC%9A%E7%9A%84%E9%97%AE%E9%A2%98.pdf)
+
+* [常用简单算法与技巧-c++版](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/%E5%B8%B8%E7%94%A8%E7%AE%80%E5%8D%95%E7%AE%97%E6%B3%95%E4%B8%8E%E6%8A%80%E5%B7%A7-c%2B%2B%E7%89%88.pdf)
+
+* [c++个人笔记总结](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E6%96%87%E6%A1%A3/c%2B%2B%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E6%80%BB%E7%BB%93.pdf)
+
 
 ### 📀 视频
 
