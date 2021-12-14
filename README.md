@@ -170,6 +170,24 @@ No.|project name|introduce
 51|[ArenaofValor](https://github.com/Xuedixuedi/ArenaofValor)|同济大学软件学院18级C++大项目——王者荣耀
   
 </div>  
+
+## 🏇 大厂面经
+  
+- [字节跳动 data后台研发 面经](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%20data%E5%90%8E%E5%8F%B0%E7%A0%94%E5%8F%91%20%E9%9D%A2%E7%BB%8F.md)
+- [字节跳动 data后端 面经](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%20data%E5%90%8E%E7%AB%AF%20%E9%9D%A2%E7%BB%8F.md)
+- [字节跳动 直播中台后端研发 面经](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%20data%E5%90%8E%E7%AB%AF%20%E9%9D%A2%E7%BB%8F.md)
+- [字节跳动广告后端面经](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%B9%BF%E5%91%8A%E5%90%8E%E7%AB%AF%E9%9D%A2%E7%BB%8F.md)
+- [字节跳动广告系统面经](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E9%9D%A2%E7%BB%8F.md)
+- [字节跳动的六次面试经历，终不过](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%9A%84%E5%85%AD%E6%AC%A1%E9%9D%A2%E8%AF%95%E7%BB%8F%E5%8E%86%EF%BC%8C%E7%BB%88%E4%B8%8D%E8%BF%87.md)
+- [字节跳动系统工程师 data面经](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E5%B8%88%20data%E9%9D%A2%E7%BB%8F.md)
+- [小米一二面（已offer)](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E5%B0%8F%E7%B1%B3%E4%B8%80%E4%BA%8C%E9%9D%A2%EF%BC%88%E5%B7%B2offer).md)
+- [网易互娱游戏研发，一面、二面 + 些许感慨（已意向）](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E7%BD%91%E6%98%93%E4%BA%92%E5%A8%B1%E6%B8%B8%E6%88%8F%E7%A0%94%E5%8F%91%EF%BC%8C%E4%B8%80%E9%9D%A2%E3%80%81%E4%BA%8C%E9%9D%A2%20%2B%20%E4%BA%9B%E8%AE%B8%E6%84%9F%E6%85%A8%EF%BC%88%E5%B7%B2%E6%84%8F%E5%90%91%EF%BC%89.md)
+- [腾讯天美C++后台一面凉经](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E8%85%BE%E8%AE%AF%E5%A4%A9%E7%BE%8EC%2B%2B%E5%90%8E%E5%8F%B0%E4%B8%80%E9%9D%A2%E5%87%89%E7%BB%8F.md)
+- [金山云C++开发 一面二面面经 已意向](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E9%87%91%E5%B1%B1%E4%BA%91C%2B%2B%E5%BC%80%E5%8F%91%20%E4%B8%80%E9%9D%A2%E4%BA%8C%E9%9D%A2%E9%9D%A2%E7%BB%8F%20%E5%B7%B2%E6%84%8F%E5%90%91.md)
+- [百度 正式批 面试](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E9%9D%A2%E8%AF%95%E5%A4%8D%E7%9B%98%20%7C%20%E7%99%BE%E5%BA%A6%20%E6%AD%A3%E5%BC%8F%E6%89%B9%20%E9%9D%A2%E8%AF%95.md)
+- [竞技世界 提前批(已OC)](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E9%9D%A2%E8%AF%95%E5%A4%8D%E7%9B%98%20%7C%20%E7%AB%9E%E6%8A%80%E4%B8%96%E7%95%8C%20%E6%8F%90%E5%89%8D%E6%89%B9(%E5%B7%B2OC).md)
+
+
   
 ## 🗂 经典资料推荐
 ### 📚 书籍推荐
