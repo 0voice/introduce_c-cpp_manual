@@ -186,6 +186,7 @@ No.|project name|introduce
 - [金山云C++开发 一面二面面经 已意向](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E9%87%91%E5%B1%B1%E4%BA%91C%2B%2B%E5%BC%80%E5%8F%91%20%E4%B8%80%E9%9D%A2%E4%BA%8C%E9%9D%A2%E9%9D%A2%E7%BB%8F%20%E5%B7%B2%E6%84%8F%E5%90%91.md)
 - [百度 正式批 面试](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E9%9D%A2%E8%AF%95%E5%A4%8D%E7%9B%98%20%7C%20%E7%99%BE%E5%BA%A6%20%E6%AD%A3%E5%BC%8F%E6%89%B9%20%E9%9D%A2%E8%AF%95.md)
 - [竞技世界 提前批(已OC)](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E9%9D%A2%E8%AF%95%E5%A4%8D%E7%9B%98%20%7C%20%E7%AB%9E%E6%8A%80%E4%B8%96%E7%95%8C%20%E6%8F%90%E5%89%8D%E6%89%B9(%E5%B7%B2OC).md)
+- [深信服C++二面-面经：40min(发面经许愿offer)](https://github.com/0voice/introduce_c-cpp_manual/blob/main/%E9%9D%A2%E7%BB%8F/%E6%B7%B1%E4%BF%A1%E6%9C%8DC%2B%2B%E4%BA%8C%E9%9D%A2-%E9%9D%A2%E7%BB%8F%EF%BC%9A40min(%E5%8F%91%E9%9D%A2%E7%BB%8F%E8%AE%B8%E6%84%BFoffer).md)
 
 
   
