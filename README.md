@@ -320,7 +320,6 @@ C/C++编译器列表
 在线C/C++编译器列表
 
 - [codepad](http://codepad.org/) ：在线编译器/解释器，一个简单的协作工具
-- [CodeTwist](http://codetwist.com/)：一个简单的在线编译器/解释器，你可以粘贴的C,C++或者Java代码，在线执行并查看结果
 - [coliru](http://coliru.stacked-crooked.com/) ：在线编译器/shell， 支持各种C++编译器
 - [Compiler Explorer](http://gcc.godbolt.org/)：交互式编译器，可以进行汇编输出
 - [CompileOnline](http://www.compileonline.com/compile_cpp11_online.php)：Linux上在线编译和执行C++程序
